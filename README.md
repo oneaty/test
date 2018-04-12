@@ -1,0 +1,2 @@
+# test
+Static site test
